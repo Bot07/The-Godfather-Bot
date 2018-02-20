@@ -1,0 +1,23 @@
+{
+  "name": "tgfbot.js",
+  "version": "1.0.0",
+  "description": "Türkçe yardım, eğlence ve destek botu Ankara Simiti'nin Pre versiyonu",
+  "main": "tgfbot.js",
+  "author": "AgentSLyaer",
+  "dependencies": {
+    "tgfbot.js": "0.0.1",
+    "discord.js": "file:discord.js"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "tgf!deneme"
+  },
+  "repository": {
+    "type": "tgf!deneme",
+    "url": "deneme başarılı"
+  },
+  "keywords": [
+    "o!simitye"
+  ],
+  "license": "ISC"
+}
