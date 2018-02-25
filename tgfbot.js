@@ -161,4 +161,4 @@ msg.channel.send({embed: embed})
     //.setImage("https://cdn.discordapp.com/attachments/364486332216639490/414773970215370762/aga_relax_zaman.png")
 //return msg.channel.send({embed})}
   
-client.login(process.env.BOT_TOKEN);
+client.login("NDEzMzQ2MTQwNzY4MDQzMDE4.DXQ_0w.3TBGP9N9zQRaF5FTQs3Uk_-dWHU")
