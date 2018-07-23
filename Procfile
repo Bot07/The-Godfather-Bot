@@ -1,1 +1,1 @@
-worker: node tgfbot.js
+worker node bot.js
