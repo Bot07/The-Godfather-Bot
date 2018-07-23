@@ -8,7 +8,7 @@ var prefix = 'f!'
 
 
 
-client.on("ready", () => {client.user.setGame('f!yardım | Adalet için, Don Corleone ye gitmeliyiz | Sunucu Sayısı: ' + client.guilds.size , 'https://twitch.tv/TheGodFather')
+client.on("ready", () => {client.user.setGame('f!yardım | Eski Sürümü Yükledim Aktif Olacak Ama Güncelleme Olmayacak | Sunucu Sayısı: ' + client.guilds.size , 'https://twitch.tv/TheGodFather')
 
 });
 
